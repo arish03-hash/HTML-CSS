@@ -1,0 +1,32 @@
+
+.name{
+    padding: 1px;
+    border: 2px solid red;
+    width: 300px;
+}
+img{
+    border: 2px solid rgb(22, 116, 179);
+    padding: 1px;
+    width: 300px;
+    height: 300px;   
+}
+.about .interesting_facts{
+    justify-content: left;
+    font-style: italic;
+    width: 300px;
+}
+.about ul{
+    text-align: left;
+    padding: 2px;
+    width: 300px;
+    list-style-type: none;
+}
+span{
+    font-weight: bold;
+}
+.about{
+    padding: 6px;
+    text-align: left;
+    border: 2px solid green;
+    width: 300px;
+}
